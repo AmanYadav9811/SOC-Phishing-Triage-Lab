@@ -1,0 +1,22 @@
+From: "Microsoft Security" <no-reply@micros0ft-support.com>
+To: victim@company.com
+Subject: URGENT: Account Access Suspended - Action Required
+Date: Sun, 23 Aug 2026 08:14:22 +0000
+Message-ID: <20260823081422.5A3F1@micros0ft-support.com>
+X-Originating-IP: [185.220.101.45]
+Received: from mail.micros0ft-support.com ([185.220.101.45])
+          by mx.company.com with ESMTP id A1B2C3D4;
+          Sun, 23 Aug 2026 08:14:22 +0000
+Authentication-Results: mx.company.com;
+      spf=fail (sender IP is 185.220.101.45);
+      dkim=fail header.i=@micros0ft-support.com;
+      dmarc=fail action=none
+Content-Type: text/plain; charset="utf-8"
+
+Dear User,
+
+We noticed unusual login attempts on your account.
+Your access will be permanently disabled unless you verify your identity within 24 hours.
+
+Please update your credentials immediately:
+http://login-micros0ft.xyz/verify?token=abc123
